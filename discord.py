@@ -3,9 +3,9 @@ from discord.ext import commands, tasks
 import os
 
 # ===== CẤU HÌNH =====
-BOT_TOKEN = "YOUR_BOT_TOKEN"      # Token bot của bạn
-GUILD_ID  = 123456789012345678    # Server ID
-VOICE_ID  = 987654321098765432    # Voice Channel ID
+BOT_TOKEN = "MTU3MDg1MDUwMTAxNTI0MDgxNA.GEw6RH.bcZL0vNcGkurkQx2aib4Z3LO94frE33QinVpxw"      # Token bot của bạn
+GUILD_ID  = 1568263564798459924    # Server ID
+VOICE_ID  = 1568263566338031727    # Voice Channel ID
 
 intents = discord.Intents.default()
 intents.voice_states = True
